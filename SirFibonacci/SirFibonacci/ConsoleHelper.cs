@@ -35,6 +35,10 @@ namespace SirFibonacci
             return defaultValue;
 
         }
-       
+
+        internal static void ReadNumber(string v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
